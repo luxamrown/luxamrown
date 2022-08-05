@@ -6,5 +6,5 @@ Currently i am a trainee at Enigmacamp, i am learning about Back End and Front E
 <img href="https://enigmacamp.com" src="enigmacamp.gif" height="96">
 
 ### Other portfolio:
-### <a href="https://swmahakam.tech" target="_blank">SW MAHAKAM PORTAL</a>
+### <a href="https://swmahakam.tech" target="_blank">SW Mahakam Portal</a>
 Mongo - Go - React
