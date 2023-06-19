@@ -20,8 +20,3 @@
       <img alt="Spotify" src="https://img.shields.io/badge/Spotify-gray?style=for-the-badge&logo=spotify">
     </a>
   </div>
-
-
-<!-- ### Other portfolio:
-### <a href="https://swmahakam.tech" target="_blank">SW Mahakam Portal</a>
-Mongo - Go - React -->
