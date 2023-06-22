@@ -16,7 +16,7 @@
     <a href="https://instagram.com/mohamadelabror" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram">
     </a>
-    <a href="https://open.spotify.com/user/21gjl2xbyyfesj5dyxmveuw3y?si=1a565e5628af432b" target="_blank">
-      <img alt="Spotify" src="https://img.shields.io/badge/Spotify-gray?style=for-the-badge&logo=spotify">
-    </a>
+      <a href="https://open.spotify.com/user/21gjl2xbyyfesj5dyxmveuw3y?si=1a565e5628af432b" target="_blank">
+        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-gray?style=for-the-badge&logo=spotify">
+      </a>
   </div>
