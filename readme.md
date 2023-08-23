@@ -2,8 +2,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/63460549/215796331-fedbffe7-469f-4e44-95e3-5e503ee95142.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/63460549/215796331-fedbffe7-469f-4e44-95e3-5e503ee95142.svg" />
     <img alt="Its me" src="https://user-images.githubusercontent.com/63460549/215796331-fedbffe7-469f-4e44-95e3-5e503ee95142.svg" width="100%" />
-    <img alt="Its me" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63460549/262647258-eba139e5-e7ab-4089-b113-12f51921a1e3.jpg" width="100%" />
 </picture>
+![kinsgsmann](https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72)
+
   <div align="center">
     <a href="https://www.linkedin.com/in/mohamadelabror/" target="_blank">
       <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-gray?style=for-the-badge&logo=linkedin">
