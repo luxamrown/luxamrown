@@ -4,7 +4,14 @@
     <img alt="Its me" src="https://user-images.githubusercontent.com/63460549/215796331-fedbffe7-469f-4e44-95e3-5e503ee95142.svg" width="100%" />
 </picture>
 
-![kinsgsmann](https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72)
+<br/>
+
+
+<div align="center">
+  <img src="https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72" width="390" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamadelabror/" target="_blank">
