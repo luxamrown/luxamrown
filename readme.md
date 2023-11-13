@@ -30,6 +30,12 @@
     <picture>
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/ed55918a-875e-4abb-8f71-888f28525ce3" width="300" />
     </picture>
+    <picture>
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/2654cbf5-b650-4d51-94d7-0a4555cdaad6" width="223" />
+    </picture>
+    <picture>
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/a8bdecaf-f99b-40af-ad23-82615375bdb3" width="225" />
+    </picture>
 </div>
 
 <picture>
