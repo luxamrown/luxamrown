@@ -16,13 +16,13 @@
 <br>
 <div align="center">
     <picture>
-        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/29f48f16-0437-45ef-a77c-ed1d78fb92d3" width="200" />
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/29f48f16-0437-45ef-a77c-ed1d78fb92d3" width="300" />
     </picture>
     <picture>
-        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/a1be83c3-dcc5-4278-b7a5-d67d228fb884" width="250" />
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/a1be83c3-dcc5-4278-b7a5-d67d228fb884" width="375" />
     </picture>
         <picture>
-        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/595823dc-4b53-42e5-966c-61fe17265744" width="102" />
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/595823dc-4b53-42e5-966c-61fe17265744" width="150 />
     </picture>
 </div>
 
