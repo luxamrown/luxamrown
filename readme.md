@@ -6,7 +6,7 @@
 
 <br/>
 
-
+<!-- 
 <div align="center">
   <picture>
       <img alt="Its me" src="https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72" width="390" />
@@ -36,7 +36,7 @@
     <picture>
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/a8bdecaf-f99b-40af-ad23-82615375bdb3" width="225" />
     </picture>
-</div>
+</div> -->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/20de96cd7ba85938a2b41c2c369bec7989bc4632/bottom.svg">
