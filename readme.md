@@ -1,7 +1,7 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/7722d61f63120364274c0b132c66706c9c089177/header.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/7722d61f63120364274c0b132c66706c9c089177/header.svg" />
-    <img alt="Its me" src="https://raw.githubusercontent.com/luxamrown/luxamrown/7722d61f63120364274c0b132c66706c9c089177/header.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/716778e25be1e7ef88a30cc176d2a1a93e5b08b2/header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/716778e25be1e7ef88a30cc176d2a1a93e5b08b2/header.svg" />
+    <img alt="Its me" src="https://raw.githubusercontent.com/luxamrown/luxamrown/716778e25be1e7ef88a30cc176d2a1a93e5b08b2/header.svg" width="100%" />
 </picture>
 
 <br/>
