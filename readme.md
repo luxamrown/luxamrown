@@ -5,8 +5,6 @@
 </picture>
 
 <br/>
-
-
 <div align="center">
   <picture>
       <img alt="Its me" src="https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72" width="390" />
