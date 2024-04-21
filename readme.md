@@ -36,7 +36,7 @@
 
 <div align="center">
     <picture>
-        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/8c755dfd-2129-4b13-8cae-a8bddcefb452" width="40%" />
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/944a34cc-86a2-45a0-9fa5-e59b8c6a9dc1" width="40%" />
     </picture>
 </div>
 
