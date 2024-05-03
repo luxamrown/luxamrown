@@ -34,12 +34,17 @@
     </picture>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
     <picture>
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/944a34cc-86a2-45a0-9fa5-e59b8c6a9dc1" width="40%" />
     </picture>
-</div>
+</div> -->
 
+<div align="center">
+    <picture>
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/64a90ae8-0cf0-4d7e-975a-00b4f53ef331" width="40%" />
+    </picture>
+</div>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/20de96cd7ba85938a2b41c2c369bec7989bc4632/bottom.svg">
