@@ -4,8 +4,6 @@
     <img alt="Its me" src="https://raw.githubusercontent.com/luxamrown/luxamrown/716778e25be1e7ef88a30cc176d2a1a93e5b08b2/header.svg" width="100%" />
 </picture>
 
-<br/>
-
 <!-- <div align="center">
   <picture>
       <img alt="Its me" src="https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72" width="390" />
@@ -39,12 +37,25 @@
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/944a34cc-86a2-45a0-9fa5-e59b8c6a9dc1" width="40%" />
     </picture>
 </div> -->
-
-<div align="center">
-    <picture>
+<h6 align='center'>Pantauan Lalu Lintas</h6>
+<div align="center" style="display: flex;">
+    <!-- <picture>
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/64a90ae8-0cf0-4d7e-975a-00b4f53ef331" width="40%" />
-    </picture>
+    </picture> -->
+    <div>
+        <h6>Pantauan Lalu Lintas GT. Kuningan 1</h6>
+        <img src="https://jid.jasamarga.com/cctv2/6c965ea?tx=1646733773121&t=20220918203004729" width=300 />
+    </div>
+    <div>
+        <h6>Pantauan Lalu Lintas GT. Slipi 1 Antrian</h6>
+        <img src="https://jid.jasamarga.com/cctv2/81ba6ff?tx=1646733773121&t=20220918201318802" width=300 />
+    </div>
 </div>
+<a href="https://github.com/luxamrown/#">Refresh To Update</a>
+<!-- <div align="center">
+    <h6>Pantauan Lalu Lintas GT. Slipi 1 Antrian</h6>
+    <img src="https://jid.jasamarga.com/cctv2/81ba6ff?tx=1646733773121&t=20220918201318802" width=300 />
+</div> -->
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/20de96cd7ba85938a2b41c2c369bec7989bc4632/bottom.svg">
