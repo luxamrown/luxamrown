@@ -37,21 +37,23 @@
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/944a34cc-86a2-45a0-9fa5-e59b8c6a9dc1" width="40%" />
     </picture>
 </div> -->
+<!-- <picture>
+    <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/64a90ae8-0cf0-4d7e-975a-00b4f53ef331" width="40%" />
+</picture> -->
 <h6 align='center'>Pantauan Lalu Lintas</h6>
-<div align="center" style="display: flex;">
-    <!-- <picture>
-        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/64a90ae8-0cf0-4d7e-975a-00b4f53ef331" width="40%" />
-    </picture> -->
-    <div>
+<table>
+  <tr>
+    <td valign="top"><div>
         <h6>Pantauan Lalu Lintas GT. Kuningan 1</h6>
         <img src="https://jid.jasamarga.com/cctv2/6c965ea?tx=1646733773121&t=20220918203004729" width=300 />
-    </div>
-    <div>
+    </div></td>
+    <td valign="top"><div>
         <h6>Pantauan Lalu Lintas GT. Slipi 1 Antrian</h6>
         <img src="https://jid.jasamarga.com/cctv2/81ba6ff?tx=1646733773121&t=20220918201318802" width=300 />
-    </div>
-</div>
-<a href="https://github.com/luxamrown/#">Refresh To Update</a>
+    </div></td>
+  </tr>
+</table>
+<a href="https://github.com/luxamrown/">Refresh To Update</a>
 <!-- <div align="center">
     <h6>Pantauan Lalu Lintas GT. Slipi 1 Antrian</h6>
     <img src="https://jid.jasamarga.com/cctv2/81ba6ff?tx=1646733773121&t=20220918201318802" width=300 />
