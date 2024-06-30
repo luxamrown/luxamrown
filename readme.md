@@ -3,14 +3,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/716778e25be1e7ef88a30cc176d2a1a93e5b08b2/header.svg" />
     <img alt="Its me" src="https://raw.githubusercontent.com/luxamrown/luxamrown/716778e25be1e7ef88a30cc176d2a1a93e5b08b2/header.svg" width="100%" />
 </picture>
-
 <!-- <div align="center">
   <picture>
       <img alt="Its me" src="https://github.com/luxamrown/luxamrown/assets/63460549/3480b216-ce3a-4c51-9e5f-e01eafda9b72" width="390" />
   </picture>
 </div>
-
-<br>
 <div align="center">
     <picture>
         <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/29f48f16-0437-45ef-a77c-ed1d78fb92d3" width="300" />
@@ -40,9 +37,13 @@
 <!-- <picture>
     <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/64a90ae8-0cf0-4d7e-975a-00b4f53ef331" width="40%" />
 </picture> -->
-<h5 align='center'>Pantauan Lalu Lintas</h5>
-<a align='center' href="https://github.com/luxamrown/">Refresh To Update</a>
+<div align="center">
+    <h5 align='center'>Pantauan Lalu Lintas</h5>
+    <a align='center' href="https://github.com/luxamrown/">Refresh To Update</a>
+</div>
+
 <table align='center'>
+
   <tr>
     <td valign="top"><div>
         <h6>Pantauan Lalu Lintas GT. Kuningan 1</h6>
@@ -58,7 +59,16 @@
     <h6>Pantauan Lalu Lintas GT. Slipi 1 Antrian</h6>
     <img src="https://jid.jasamarga.com/cctv2/81ba6ff?tx=1646733773121&t=20220918201318802" width=300 />
 </div> -->
-
+<hr>
+<br>
+<div align="center">
+    <picture>
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/215450ba-5d16-46c0-8550-bc4b6e96f14f" width="200" />
+    </picture>
+    <picture>
+        <img alt="emo" src="https://github.com/luxamrown/luxamrown/assets/63460549/d2628674-206f-4a8a-ae35-9ea305f0d5c1" width="143" />
+    </picture>
+</div>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/20de96cd7ba85938a2b41c2c369bec7989bc4632/bottom.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luxamrown/luxamrown/20de96cd7ba85938a2b41c2c369bec7989bc4632/bottom.svg" />
